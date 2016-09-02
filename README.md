@@ -5,6 +5,8 @@ It requires the `$HABITICA_TOKEN` and `$HABITICA_UUID` to be set in the environm
 
 WARNING: This script does not have any checks in it for accidental deletion of tasks etc., so if you don't understand how this script works, don't use it! 
 
+Requirements: GNU-grep (not BSD grep that's installed on most Mac's)
+
 Usage is simple:
 
 ```
